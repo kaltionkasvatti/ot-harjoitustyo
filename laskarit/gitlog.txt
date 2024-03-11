@@ -1,0 +1,113 @@
+commit 7bd6651fbb4137b1e827274e9a0f509a008e4b15
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 15:14:05 2024 +0200
+
+    tehtävä 11 viimeinen commit
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 1d9e8b5fb43a17b7cfd26c424d6316367f709d9b
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 15:10:24 2024 +0200
+
+    Tehtävä 11
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b7007cdb1fb6f702b66cc824d6081521b4036e92
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:57:38 2024 +0200
+
+    jaa taas pitää öö ekaan ja kolmanteen jotain
+
+ eka.txt    | 6 +++---
+ kolmas.txt | 3 ++-
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+
+commit 56714910d65acda6c4158c666d63945cb90dad17
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:54:52 2024 +0200
+
+    uudelleennimeäminen tiedosto -> eka
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f9f99e7cca8a1f04cfdaab06388e0d9cf2ad15b1
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:53:42 2024 +0200
+
+    poistin tiedoston toinen
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit d0d6601d46680293b6116b62054ee58dc3692007
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:51:13 2024 +0200
+
+    numero 3 piiloon
+
+ tiedosto.txt | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+commit f8d4021c883aa2d86594c5b592f6d7b0c4b3a78c
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:49:41 2024 +0200
+
+    jutean
+
+ tiedosto.txt | 759 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 758 insertions(+), 1 deletion(-)
+
+commit a69f8b95fea862ef2d385526df85542e073b3bfe
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:30:14 2024 +0200
+
+    hakemiston lisäys
+
+ stuff/kaikkea.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c2838c248b977bba40d277b4379c1197761b3483
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:27:39 2024 +0200
+
+    Kolmannen j aotisen muokkausta
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 09d2a5e29f3143d7b833a971a5057131159ccace
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:25:51 2024 +0200
+
+    kolmannen lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4be16d2e214cfea2420fb2859e5ba675107f4474
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:15:29 2024 +0200
+
+    tiedosto-tiedoston muutos ja toisen lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit d285dafbfad1c4fc3386b2c76e1b37c7e6d8b5cd
+Author: Hánno Länsman <halansman@gmail.com>
+Date:   Mon Mar 11 14:12:42 2024 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
