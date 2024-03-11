@@ -7,4 +7,4 @@
 
 [komentorivi.txt](https://github.com/kaltionkasvatti/ot-harjoitustyo/blob/main/laskarit/komentorivi.txt)
 
-Vielä yksi juttu on kiva kyllä. Se on tämä lause
+Vielä yksi juttu on kiva kyllä. Se on tämä lause.
