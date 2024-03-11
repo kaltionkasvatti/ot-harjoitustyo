@@ -1,4 +1,4 @@
 # Tehtävän 14 kokeilu
 
-**Tämä** on __hyvin__ erikoinen ja __ikoninen__ ~~ja vähän hassu~~ juttu kirjoittaa.
+**Tämä** on _hyvin_ erikoinen ja _ikoninen_ ~~ja vähän hassu~~ juttu kirjoittaa.
 
